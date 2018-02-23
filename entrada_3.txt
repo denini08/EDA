@@ -1,0 +1,5 @@
+q 4
+23/06/2017 38 sensor1
+25/08/2017 30 temperatura
+24/01/2017 12 energia
+01/01/2017 99 energia
